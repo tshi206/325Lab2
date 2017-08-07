@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="softeng325-lab2-servlet-fibonnaci:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="softeng325-lab2-servlet-fibonnaci-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="softeng325-lab2-servlet-fibonnaci:war exploded" />
+    </root>
+  </artifact>
+</component>
