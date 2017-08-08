@@ -121,7 +121,7 @@
 						<contextPath>/</contextPath>
 					</webApp>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
-					<stopPort>8005</stopPort>
+					<stopPort>8888</stopPort>
 					<stopKey>STOP</stopKey>
 				</configuration>
 				<executions>
